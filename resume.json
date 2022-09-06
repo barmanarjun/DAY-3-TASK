@@ -1,0 +1,56 @@
+var resumeArjun = [
+
+    {"Title":"CURRICULUM VITAE"},
+    {"NAME":"ARJUN BARMAN"},
+    {"VILL":"-BATABARI"},
+    {"PO":"-BIJNI"},
+    {"DIST":"-CHIRANG"},
+    {"PIN":"-783390 (ASSAM)"},
+  
+    {"Contactdetails1":"Mob:-xxxxxxxxxx"},
+    {"Contactdetails2":"Email Id:-barmanarjun1997@gmail.com"},
+  
+    {"CareerObjective":"Want to join in a company which has steady growth and where I can use my knowledge for the benefit of company and also get good professional environment to flourish higher in my career."},
+  
+    {"PROFESSIONALEXPERIENCE":"Total Experience: 1.5 Years"},
+  
+    {"WorkHistory1":"1. Engineers India Ltd. Under M/s. Manoranjan Deka in BS-VI Project of IOCL BGR.from 01-04-2021 to 28-01-2022 as Computer Operator (Highly Skilled category)"},
+    {"WorkHistory2":"2. Engineers India Ltd. Under M/s. Associate Works Infra Pvt. Ltd(AWIPL) in BS-VI Project of IOCL BGR. from 14-02-2022 to present as Computer Operator (Highly Skilled category)"},
+  
+    {"JOBRESPONSIBILITY1":"1. Material Codification- Search existing code, create new code on SAP & MDG."},
+    {"JOBRESPONSIBILITY2":"2. Material Issue Voucher (MIV) Posting on SAP."},
+    {"JOBRESPONSIBILITY3":"3. Material Extension, Stock Transfer on SAP & MDG."},
+    {"JOBRESPONSIBILITY4":"4. Sending Original Bank Guarantees to Issuing Bank Branches by Post."},
+    {"JOBRESPONSIBILITY5":"5. Performing different tasks on MS Excel & Word."},
+    {"JOBRESPONSIBILITY6":"6. Handling and maintenance of files."},
+    {"JOBRESPONSIBILITY7":"7. Reporting Near Miss Incident."},
+    {"JOBRESPONSIBILITY8":"8. Stock reconciliation using Warehouse Management System (WAMS)."},
+    {"JOBRESPONSIBILITY9":"9. Storage & preservation of materials."},
+    {"JOBRESPONSIBILITY10":"10. Virtual assistance."},
+   
+  
+    {"ACADEMICQUALIFICATION":"➢ BA Hons in English."},
+  
+    {"ComputerLiteracy1":"➢ PGDCA"},
+    {"ComputerLiteracy1":"➢ MS Office, Windows 2003/2007 & 2010, Ms Excel & Word, Email, Internet."},
+   
+    
+    {"ProgrammingSkill1":"➢ HTML, CSS, JAVASCRIPT"},
+    {"ProgrammingSkill1":"➢ Full Stack Web Development Course From Guvi Geek Network Limited."},
+  
+    {"ASSETSANDSTRENGTH1":"➢ Punctual and Hard Working."},
+    {"ASSETSANDSTRENGTH1":"➢ Work with Dedication."},
+  
+    {"PersonalDetails1":"Name : Arjun Barman"},
+    {"PersonalDetails2":"D.O.B. : 28th December, 1997"},
+    {"PersonalDetails3":"Sex : Male"},
+    {"PersonalDetails4":"Nationality : Indian"},
+    {"PersonalDetails5":"Language known : Assamese, Hindi, English, Bengali & Sign Language"},
+   
+  
+  ];
+  
+  for (var key in resumeArjun) {
+   console.log(key, resumeArjun[key])
+ };
+ 
