@@ -32,14 +32,14 @@ var resumeArjun = [
     {"ACADEMICQUALIFICATION":"➢ BA Hons in English."},
   
     {"ComputerLiteracy1":"➢ PGDCA"},
-    {"ComputerLiteracy1":"➢ MS Office, Windows 2003/2007 & 2010, Ms Excel & Word, Email, Internet."},
+    {"ComputerLiteracy2":"➢ MS Office, Windows 2003/2007 & 2010, Ms Excel & Word, Email, Internet."},
    
     
     {"ProgrammingSkill1":"➢ HTML, CSS, JAVASCRIPT"},
-    {"ProgrammingSkill1":"➢ Full Stack Web Development Course From Guvi Geek Network Limited."},
+    {"ProgrammingSkill2":"➢ Full Stack Web Development Course From Guvi Geek Network Limited."},
   
     {"ASSETSANDSTRENGTH1":"➢ Punctual and Hard Working."},
-    {"ASSETSANDSTRENGTH1":"➢ Work with Dedication."},
+    {"ASSETSANDSTRENGTH2":"➢ Work with Dedication."},
   
     {"PersonalDetails1":"Name : Arjun Barman"},
     {"PersonalDetails2":"D.O.B. : 28th December, 1997"},
