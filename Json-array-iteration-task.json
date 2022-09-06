@@ -1,8 +1,8 @@
 var students = [
-    { name: "Arjun", marks: 500 },
-    { name: "Sam", marks: 450 },
-    { name: "Barman", marks: 400 },
-    { name: "Danny", marks: 350 }
+    { "name": "Arjun", "marks": 500 },
+    { "name": "Sam", "marks": 450 },
+    { "name": "Barman", "marks": 400 },
+    { "name": "Danny", "marks": 350 }
   ];
 
  
