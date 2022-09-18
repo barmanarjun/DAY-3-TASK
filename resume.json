@@ -1,4 +1,4 @@
-  const resumeArjun =[
+  [
 
   {"TITLE":"CURRICULUM VITAE"},
   {"PHOTO":""},
@@ -69,12 +69,6 @@
   "Language known : Assamese, Hindi, English, Bengali & Sign Language"
   ]
 }
-];
-  
-
-
-
-for (var key in resumeArjun) {
-  console.log(key, resumeArjun[key])
-};
+]
+ 
 
